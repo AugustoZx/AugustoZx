@@ -32,4 +32,4 @@
     <img aling="center" alt="ps" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 </div>
 
-![Snake animation](https://github.com/AugustoZx/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AugustoZx/AugustoZx/blob/output/github-contribution-grid-snake.svg)
