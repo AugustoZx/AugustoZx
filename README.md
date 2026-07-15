@@ -67,12 +67,12 @@
     title="PHP"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg" />      
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />      
     <img 
     align="left"
     alt="PHP"
     title="PHP"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </div>
