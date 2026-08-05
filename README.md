@@ -2,7 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustoozx)
 [![Instagram](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/frayx7)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AugustoZx&theme=dark&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
 
 ## Programação Intermediário
 
@@ -77,3 +76,5 @@
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AugustoZx&theme=dark&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
