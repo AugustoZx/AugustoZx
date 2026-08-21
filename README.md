@@ -1,7 +1,6 @@
 # Olá! Eu sou o Augusto Oliveira <img aling="right" src="https://media.tenor.com/2P7N3XLLc6EAAAAj/anime.gif"> [![GitHub Streak](https://streak-stats.demolab.com?user=AugustoZx&theme=dark&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustoozx)
-[![Instagram](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/frayx7)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/frayx7)
 
 ## Programação Intermediário
 
